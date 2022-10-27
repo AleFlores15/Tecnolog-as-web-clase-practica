@@ -1,0 +1,16 @@
+.caracteristicas{
+    width: 250px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: rgba(0,0,0,0.1);    
+    color: #000;
+}
+
+a{
+    text-decoration: none;
+}
+
+h2{
+    color: #303F9F;
+}
